@@ -1,6 +1,6 @@
 # Contact_Verification
 
-📱 Software concept for movbile contact verification app. 
+📱 Software concept for mobile contact verification app. 
 
 ## CONCEPT
 
