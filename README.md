@@ -12,6 +12,7 @@ Purchase the app from Google Play and customize the settings for your smartphone
 
 ## EXAMPLE
 
+```
 Recent contact verified with Google.
 Incoming call or text:(647) 822-6707
 Tim Hortons
@@ -25,6 +26,7 @@ Call date: DD/MM/YY
 Hours: Closed / Open
 Rating: 1-5 stars
 Reviews: Total number
+```
 
 ## NOTES
 
