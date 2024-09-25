@@ -1,16 +1,14 @@
-# Contact_Verification
+> Software concept for mobile contact verification app. 
 
-📱 Software concept for mobile contact verification app. 
-
-## CONCEPT
+#
+## Concept
 
 Smartphone app that searches for publicly listed phone numbers on Google and sends information to your smartphone or email address.
 
-## USAGE
-
 Purchase the app from Google Play and customize the settings for your smartphone. Receive text message and emails from the app after each phone call. This app can be used professionally and personally with any smartphone.
 
-## EXAMPLE
+#
+### Example
 
 ```
 Recent contact verified with Google.
@@ -28,6 +26,10 @@ Rating: 1-5 stars
 Reviews: Total number
 ```
 
-## NOTES
+#
+### NOTES
 
 This mobile application idea was inspired by simple and everyday smartphone usage. This app idea is very useful and it can easily be developed and used with current and future smartphones.
+
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
