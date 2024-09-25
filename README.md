@@ -10,18 +10,18 @@ Purchase the app from Google Play and customize the settings for your smartphone
 ### Example
 
 ```
-Recent contact verified with Google.
-Incoming call or text:(647) 822-6707
-Tim Hortons
-1818 Dundas St E, Whitby, ON
-L1N 2L4
+Recent contact verified with [Service Provider].
+Incoming call or text: (XXX) XXX-XXXX
+Business [Business Name]
+[Street Address], [City], [State/Province]
+[Postal Code]
 
 Optional data:
 
 Call time: 0:00 AM/PM
 Call date: DD/MM/YY
 Hours: Closed / Open
-Rating: 1-5 stars
+Rating: X stars
 Reviews: Total number
 ```
 
