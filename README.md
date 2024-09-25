@@ -1,7 +1,6 @@
 > Software concept for mobile contact verification app. 
 
 #
-## Concept
 
 Smartphone app that searches for publicly listed phone numbers on Google and sends information to your smartphone or email address.
 
